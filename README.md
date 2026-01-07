@@ -9,6 +9,10 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=jenil-p&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jenil-p&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 📈 Contribution Activity
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jenil-p&theme=react-dark)
+
+
 ---
 [![](https://visitcount.itsvg.in/api?id=jenil-p&icon=0&color=0)](https://visitcount.itsvg.in)
 
